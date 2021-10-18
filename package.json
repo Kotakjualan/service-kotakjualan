@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@polka/send-type": "^0.5.2",
+    "body": "^5.1.0",
+    "date-fns": "^2.25.0",
+    "dotenv": "^10.0.0",
+    "joi": "^17.4.2",
+    "mongoose": "^6.0.11",
+    "multer": "^1.4.3",
+    "polka": "1.0.0-next.22"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "name": "service-kotakjualan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kotakjualan/service-kotakjualan.git",
+  "author": "Reza Andriansyah <rezaxxxx02@gmail.com>",
+  "license": "MIT"
+}
